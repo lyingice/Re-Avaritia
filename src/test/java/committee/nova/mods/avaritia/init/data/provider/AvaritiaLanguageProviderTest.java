@@ -140,7 +140,7 @@ class AvaritiaLanguageProviderTest {
                 Map.entry("tooltip.avaritia.tool.infinity_shield_float", "漂浮"),
                 Map.entry("item.avaritia.neutron_nautilus_armor", "溟海永息之壳"),
                 Map.entry("item.avaritia.neutron_wolf_armor", "群星追猎之铠"),
-                Map.entry("item.avaritia.neutron_harness", "灼宙凝衡之羁")
+                Map.entry("item.avaritia.neutron_harness", "星空挽具")
         ));
     }
 
